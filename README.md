@@ -6,7 +6,7 @@ GoCGA
 GoCGA is primarily a command-line tool written in Go for creating and managing CGA wallets, with the ability to both send and receive amounts. GoCGA also comprises a `wallet` package which handles key management and an `rpc` package for communicating with CGA nodes.
 
 
-Prerequirement
+## Prerequirement
 ```
 sudo apt-get update
 sudo apt-get install ocl-icd-opencl-dev
