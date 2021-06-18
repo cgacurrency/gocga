@@ -1,6 +1,8 @@
 GoCGA
 ======
 
+[![buddy pipeline](https://app.buddy.works/pm-45/gocga/pipelines/pipeline/333452/badge.svg?token=71e07ab3f9492e604ce68855f6f4336691f8e5ed8a7964508643c14be25d2597 "buddy pipeline")](https://app.buddy.works/pm-45/gocga/pipelines/pipeline/333452)
+
 GoCGA is primarily a command-line tool written in Go for creating and managing CGA wallets, with the ability to both send and receive amounts. GoCGA also comprises a `wallet` package which handles key management and an `rpc` package for communicating with CGA nodes.
 
 Install
