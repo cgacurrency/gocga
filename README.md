@@ -11,7 +11,6 @@ Prerequirement
 sudo apt-get update
 sudo apt-get install ocl-icd-opencl-dev
 sudo apt-get install build-essential
-
 ```
 ---
 
